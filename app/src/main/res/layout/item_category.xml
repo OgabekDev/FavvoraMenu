@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="5dp"
+    android:layout_marginEnd="5dp"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="50dp">
+
+        <LinearLayout
+            android:id="@+id/llSingleCategory"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/tvSingleCategory"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:visibility="visible"
+                android:textSize="22sp"
+                android:gravity="center"
+                android:textStyle="normal"
+                android:textColor="@color/black"
+                android:padding="5dp"/>
+
+            <ImageView
+                android:id="@+id/ivMultiCategory"
+                android:visibility="gone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:scaleType="centerCrop"
+                android:adjustViewBounds="true"
+                android:src="@drawable/ic_down"/>
+
+        </LinearLayout>
+
+    </FrameLayout>
+
+    <View
+        android:id="@+id/vIsSelected"
+        android:layout_width="match_parent"
+        android:layout_marginEnd="5dp"
+        android:visibility="gone"
+        android:layout_marginStart="5dp"
+        android:layout_height="4dp"
+        android:layout_marginTop="-5dp"
+        android:background="@drawable/bg_selected"/>
+
+</LinearLayout>

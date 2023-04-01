@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Favvora Menu</string>
+    <string name="str_search">Поиск</string>
+    <string name="_22_000">22.000</string>
+    <string name="str_no_connection">Нет соединения. Пожалуйста, проверьте интернет или подключитесь к Wi-Fi.</string>
+    <string name="source">TARKIBI:\n</string>
+    <string name="UZS">\nSO\'M</string>
+    <string name="str_title">СКАЧАТЬ ДАННЫЕ</string>
+    <string name="str_message">Вы подтверждаете загрузку новых данных с сервера? Ваша база данных будет очищена перед загрузкой.</string>
+</resources>
