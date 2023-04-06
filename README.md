@@ -21,7 +21,7 @@ Favvora Menu is a mobile application developed for a restaurant called "Favvora 
 * Meal Details
 
 ### Report issues
-Something not working quite as expected? Do you need a feature that has not been implemented yet? Check the [issue tracker](https://github.com/OgabekDev/FavvoraMeny/issues) and add a new one if your problem is not already listed. Please try to provide a detailed description of your problem, including the steps to reproduce it.
+Something not working quite as expected? Do you need a feature that has not been implemented yet? Check the [issue tracker](https://github.com/OgabekDev/FavvoraMenu/issues) and add a new one if your problem is not already listed. Please try to provide a detailed description of your problem, including the steps to reproduce it.
 
 ### How to run the project in development mode
 * Clone or download repository as a zip file.
