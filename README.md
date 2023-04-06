@@ -16,7 +16,7 @@ Favvora Menu is a mobile application developed for a restaurant called "Favvora 
 
 ### Features
 * Only Menu List
-* Sync
+* Sync Meals
 * Online and Offline Mode
 * Meal Details
 
